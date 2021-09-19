@@ -24,7 +24,7 @@ class About extends React.Component {
         {
           id: "part1",
           content:
-            "My name is Brandon. I'm a graduate of The Ohio State University's full-stack web development Bootcamp. I enjoyed programming since I was in high school and I used to implement any kind of formula to code lines in a simple way. I have a background in customer service and customer satisfaction has been my goal in my programming as well. Programming is about passion, I was, and I still am thrilled to discover the backstage of web applications, how they work, and the joy of creating myself something that would make life easier."
+            "My name is Brandon. I'm a graduate of The Ohio State University's full-stack web development Bootcamp. I've enjoyed programming since I was in high school and I used to implement code to solve simple problems. I have a background in customer service and customer satisfaction has been my goal in my programming as well. Programming is about passion, I was, and I still am thrilled to discover the backstage of web applications, how they work, and the joy of creating something that would make life easier."
         },
         {
           id: "second-p-about",
@@ -59,7 +59,7 @@ class About extends React.Component {
         {
           id: "8th-p-about",
           content:
-            " • Proud team player focused on achieving project objectives with speed and accuracy."
+            "• Proud team player focused on achieving project objectives with speed and accuracy."
         },
       ]
     };
